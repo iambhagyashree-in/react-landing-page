@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/react-landing-page/static/css/main.670efaf1.css",
-    "main.js": "/react-landing-page/static/js/main.20e1cf41.js",
+    "main.css": "/react-landing-page/static/css/main.c4d46b97.css",
+    "main.js": "/react-landing-page/static/js/main.56536e43.js",
     "static/media/fontawesome-webfont.svg?v=4.3.0": "/react-landing-page/static/media/fontawesome-webfont.d0ba16d89d53283e819b.svg",
     "static/media/fontawesome-webfont.ttf?v=4.3.0": "/react-landing-page/static/media/fontawesome-webfont.45f9f92a5bfbad4be12f.ttf",
     "static/media/glyphicons-halflings-regular.svg": "/react-landing-page/static/media/glyphicons-halflings-regular.060b2710bdbbe3dfe48b.svg",
@@ -14,11 +14,11 @@
     "static/media/glyphicons-halflings-regular.eot": "/react-landing-page/static/media/glyphicons-halflings-regular.5be1347c682810f199c7.eot",
     "static/media/glyphicons-halflings-regular.woff2": "/react-landing-page/static/media/glyphicons-halflings-regular.be810be3a3e14c682a25.woff2",
     "index.html": "/react-landing-page/index.html",
-    "main.670efaf1.css.map": "/react-landing-page/static/css/main.670efaf1.css.map",
-    "main.20e1cf41.js.map": "/react-landing-page/static/js/main.20e1cf41.js.map"
+    "main.c4d46b97.css.map": "/react-landing-page/static/css/main.c4d46b97.css.map",
+    "main.56536e43.js.map": "/react-landing-page/static/js/main.56536e43.js.map"
   },
   "entrypoints": [
-    "static/css/main.670efaf1.css",
-    "static/js/main.20e1cf41.js"
+    "static/css/main.c4d46b97.css",
+    "static/js/main.56536e43.js"
   ]
 }
