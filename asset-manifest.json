@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/react-landing-page/static/css/main.35a9a938.css",
-    "main.js": "/react-landing-page/static/js/main.bbd901c2.js",
+    "main.js": "/react-landing-page/static/js/main.a88e0dc9.js",
     "static/media/fontawesome-webfont.svg?v=4.3.0": "/react-landing-page/static/media/fontawesome-webfont.d0ba16d89d53283e819b.svg",
     "static/media/fontawesome-webfont.ttf?v=4.3.0": "/react-landing-page/static/media/fontawesome-webfont.45f9f92a5bfbad4be12f.ttf",
     "static/media/glyphicons-halflings-regular.svg": "/react-landing-page/static/media/glyphicons-halflings-regular.060b2710bdbbe3dfe48b.svg",
@@ -17,6 +17,6 @@
   },
   "entrypoints": [
     "static/css/main.35a9a938.css",
-    "static/js/main.bbd901c2.js"
+    "static/js/main.a88e0dc9.js"
   ]
 }
